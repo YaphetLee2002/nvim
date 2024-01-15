@@ -1,4 +1,5 @@
 {
+  "FloatRun": { "branch": "main", "commit": "2b5a25b14056463141f774c7c66f11b0d056aa4e" },
   "LazyVim": { "branch": "main", "commit": "879e29504d43e9f178d967ecc34d482f902e5a91" },
   "LuaSnip": { "branch": "master", "commit": "82108e7e31cc6fc223cc5df5cae6d89f70bb199f" },
   "SchemaStore.nvim": { "branch": "main", "commit": "3872be10ce1db13d87b4dee1e260ac4936a38d8e" },
